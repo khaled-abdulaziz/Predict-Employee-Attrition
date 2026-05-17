@@ -119,4 +119,4 @@ jupyter notebook predict_employee_attrition.ipynb
 ## 👤 Author
 
 **Khaled Abdulaziz**
-Feel free to connect or leave feedback via GitHub Issues.
+
