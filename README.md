@@ -2,7 +2,7 @@
 
 A machine learning project that predicts whether an employee is likely to leave a company, using the IBM HR Analytics dataset. The project covers data cleaning, feature engineering, dimensionality reduction, class imbalance handling, and benchmarking of 8 classification models.
 
----
+----
 
 ## 📊 Dataset
 
